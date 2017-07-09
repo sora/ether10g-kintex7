@@ -476,7 +476,7 @@ end
                                             2'b00,
                                             2'b00,
                                             10'b0000000001,  // 32
-                                            COMPLETER_ID_CFG,
+                                            REQUESTER_ID, //COMPLETER_ID_CFG,
                                             tag_,
                                             4'b0000,
                                             first_dw_be_     // 64
@@ -544,7 +544,7 @@ end
                                             2'b00,
                                             2'b00,
                                             10'b0000000001,  // 32
-                                            COMPLETER_ID_CFG,
+                                            REQUESTER_ID, //COMPLETER_ID_CFG,
                                             tag_,
                                             4'b0000,
                                             first_dw_be_     // 64
@@ -613,7 +613,7 @@ end
                                            2'b00,
                                            2'b00,
                                            10'b0000000001, // 32
-                                           COMPLETER_ID_CFG,
+                                           REQUESTER_ID, //COMPLETER_ID_CFG,
                                            tag_,
                                            4'b0000,
                                            first_dw_be_    // 64
@@ -682,7 +682,7 @@ end
                                            2'b00,
                                            2'b00,
                                            10'b0000000001, // 32
-                                           COMPLETER_ID_CFG,
+                                           REQUESTER_ID, //COMPLETER_ID_CFG,
                                            tag_,
                                            4'b0000,
                                            first_dw_be_    // 64
