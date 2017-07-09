@@ -47,7 +47,7 @@
 -- DO NOT MODIFY THIS FILE.
 
 -- IP VLNV: xilinx.com:ip:axi_10g_ethernet:3.1
--- IP Revision: 3
+-- IP Revision: 5
 
 -- The following code must appear in the VHDL architecture header.
 
